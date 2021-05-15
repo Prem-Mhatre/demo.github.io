@@ -24,20 +24,20 @@ button:hover{
 }
 .left{
     position: absolute;
-    top: 344px;
-    left: 17px;
+    top: 307px;
+    left: 21px;
 }
 .right{
     position: absolute;
-    top: 344px;
-    left: 94px;
+    top: 304px;
+    left: 131px;
 }
 .jump{
     position: absolute;
-    top: 325px;
-    left: 649px;
-    width: 1000px;
-    height: 1000px;
+     top: 304px;
+    left: 632px;
+    width: 100px;
+    height: 100px;
 }
 .mario{
     background-image: url(mariopng.png);
