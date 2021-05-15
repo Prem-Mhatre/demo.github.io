@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.container{
+    background-image: url(bg.png);
+    height: 414px;
+    width: 739;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    border: 2px solid black;
+    background-color: transparent;
+    border-radius: 100px;
+}
+button:hover{
+    border: 2px solid white;
+    color: white;
+}
+.left{
+    position: absolute;
+    top: 363px;
+    left: 17px;
+}
+.right{
+    position: absolute;
+    top: 363px;
+    left: 65px;
+}
+.jump{
+    position: absolute;
+    top: 341px;
+    left: 661px;
+    width: 60px;
+    height: 60px;
+}
+.mario{
+    background-image: url(mariopng.png);
+    height: 100px;
+    width: 78px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 305px;
+    left: 14px;
+}
+.dragon{
+    background-image: url(dragon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 115px;
+    width: 137px;
+    position: absolute;
+    top: 295px;
+    left: 593px;
+}
